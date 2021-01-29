@@ -10,6 +10,7 @@ example
 > from playlisttitle import PlaylistGet
 > 
 > playl = PlaylistGet("LinkUrl")
+
 > titles = playl.playlist_titles()
 
 > print(len(titles))
