@@ -11,6 +11,8 @@ example
 > 
 > playl = PlaylistGet("LinkUrl")
 > titles = playl.playlist_titles()
+
 > print(len(titles))
+
 > print(titles)
 
